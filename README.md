@@ -12,16 +12,9 @@ $ npm install
 
 ## Running the app
 
-```bash
+````bash
 # development
 $ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
 
 ## Test
 
@@ -34,4 +27,4 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
-```
+````
